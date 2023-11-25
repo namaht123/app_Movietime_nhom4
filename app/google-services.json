@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "876378282898",
+    "project_id": "movies-time-6e23a",
+    "storage_bucket": "movies-time-6e23a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876378282898:android:725aeb85a28dba21ae3f4b",
+        "android_client_info": {
+          "package_name": "huanvdph35061.fpoly.moviestime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCuFZAPkd_QyU_BscHn2EtFzSx3yRkMe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
